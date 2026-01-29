@@ -43,7 +43,7 @@ pnpm-debug.log*
 
 # React build
 build/
-dist/
+dist/ 
 
 # =========================
 # IDEs
